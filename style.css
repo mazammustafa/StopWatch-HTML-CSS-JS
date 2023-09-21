@@ -1,0 +1,40 @@
+body{
+    background-color: #555; 
+}
+.btn{
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 20%;
+    margin-bottom: 25px;
+}  
+h1{
+    display: inline-block !important;
+    margin: 5px 15px 5px 15px;
+    background-color: black;
+    color: white;
+    margin-top: 25px ;
+    /* margin-left: 100px;
+    margin-right: 10px; */
+}
+h2{
+    margin: 20px 3px 20px 3px;
+    margin-left: 185px;
+}
+#lap{
+    text-align: left;
+}
+
+#record{
+    text-align: center;
+}
+div{
+    color:#fff;
+}
+.container{
+    margin-top: 20%;
+    background-color:black;
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 100px 0px 100px 0px;
+    margin-bottom: 10px !important;
+}
